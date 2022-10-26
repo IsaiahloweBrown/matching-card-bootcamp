@@ -15,7 +15,7 @@ I made matching card game based on Legend of Runterra(League of Legends Lore)
 The matching card game allows you to click two cards. If the cards are the same, they stay facing up. If they are different they turn back over. Once, you matched all the cards, the game reset and randomizes all the cards. 
 
 
-## Lessons Learned:
+## Additional Features:
 
 ![image](https://user-images.githubusercontent.com/112201564/198077784-571e04ca-48ee-409d-be48-bffa8926f2bc.png)
 
